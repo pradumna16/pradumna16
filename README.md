@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pradumna</h1>
 <h3 align="center">A passionate and curious Developer and Cybersecurity Researcher</h3>
-<img align="right" alt="Coding" width="350"  src="https://media.tenor.com/trwMzHIDQlQAAAAi/hack-hacking.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradumna16" alt="pradumna16" /></a> </p>
-
+<img align="right" alt="Coding" width="350"  src="https://media.tenor.com/trwMzHIDQlQAAAAi/hack-hacking.gif">
 - 🔭 I’m currently working on **CyberSecurity Complaince**
 
 - 🌱 I’m currently learning **ISO 27001, PCI DSS, OSCP and VAPT**
